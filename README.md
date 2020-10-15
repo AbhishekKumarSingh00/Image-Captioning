@@ -1,2 +1,2 @@
 # Image-Captioning
-It will detect caption for the image
+It will Predict caption for the image
