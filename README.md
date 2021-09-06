@@ -6,5 +6,5 @@ It will Predict caption for the image
 3. Open terminal enter python app.py to run the project
 
 # Screenshots
-![Image of adduser](https://github.com/AbhishekKumarSingh00/Image-Captioning/blob/main/predicted%20image%20(2).png)
-![Image of adduser](https://github.com/AbhishekKumarSingh00/Image-Captioning/blob/main/predicted%20caption.png)
+![predicted image-1](https://github.com/AbhishekKumarSingh00/Image-Captioning/blob/main/predicted%20image%20(2).png)
+![predicted image-2](https://github.com/AbhishekKumarSingh00/Image-Captioning/blob/main/predicted%20caption.png)
